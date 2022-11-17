@@ -44,3 +44,5 @@ git pull (datos de remoto a local)
 git stash (cuando no me deja hacer pull por conflictos)
 
 git stash pop
+
+git checkout *commit detail/main*
