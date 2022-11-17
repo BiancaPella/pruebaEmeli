@@ -40,3 +40,7 @@ git push
 git fetch (pregunta a remoto si alguien mas pusheo)
 
 git pull (datos de remoto a local)
+
+git stash (cuando no me deja hacer pull por conflictos)
+
+git stash pop
